@@ -20,7 +20,8 @@ interface Persona {
     nombre: 'Arturo',
     apellido: 'Gonzalez',
     edad: 24,
-    genero: 'Masculino' 
+    genero: 'Masculino',
+    
   }
 
 // direccion persona

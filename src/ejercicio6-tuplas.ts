@@ -1,0 +1,1 @@
+let persona: [string, number] = ['Daniel', 22]
